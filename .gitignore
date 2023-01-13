@@ -99,3 +99,5 @@ yarn-debug.log*
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 >>>>>>> a94a458 (initial commit)
+
+/config/credentials/production.key
